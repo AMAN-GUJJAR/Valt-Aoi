@@ -32,7 +32,7 @@ The Easiest Way to Deploy This Bot is Via Heroku.
 	
   <h1>
     <p align="center">
-        <a href="https://heroku.com/deploy?template=https://github.com/DareAbijth/Valt-Aoi">
+        <a href="https://heroku.com/deploy?template=https://github.com/AMAN-GUJJAR/Valt-Aoi">
             <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
         </a>
     </p>
@@ -82,7 +82,4 @@ Start with ```python -m Valt-Aoi```
 - [👀Me Also](https://github.com/DareAbijth) For Some Modules In Alive And Some
 ```
 Fork At Your Own Risk 😸
-Must Add The Orginal Repo Link On PM_START Else Gban And U Proving You itself Gay
-Mainly Note if you not put any cridits to The bot PM_START and modules you are the Mother Dicker
-And we will gban you
 ```
